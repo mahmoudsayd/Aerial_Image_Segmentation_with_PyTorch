@@ -8,4 +8,4 @@ Use U-Net architecture for segmentation
 - Create train function and evaluator function which will helpful to write training loop. Moreover, you will use training loop to train the model.
 
 - Finally, we will use best trained segementation model for inference.
-- 
+  
